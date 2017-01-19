@@ -6,3 +6,6 @@ h2 {
   color:blue;
   text-align: left;
 }
+th, td {
+    border-bottom: 1px solid #ddd;
+}
